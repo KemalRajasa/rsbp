@@ -11,6 +11,7 @@
 - Data_Cleaning.ipynb : Notebook untuk Cleaning Data (preprocessing)
 - EDA_RSBP.ipynb: Notebook untuk EDA
 - neo4j.dump : Neo4j dump berisi databse
+- used_car_final_clean.csv : Berisi dataset yang sudah dibersihkan dan dipreprocess
 - Laporan.pdf : Laporan ETS
 
 ## ASSETS
