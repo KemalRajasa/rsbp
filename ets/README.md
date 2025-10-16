@@ -8,6 +8,10 @@
 | Kemal Tangguh Aji Rajasas   | 5025231263   | [KemalRajasa](https://github.com/KemalRajasa/) |
 
 ## DESKRIPSI
+- Data_Cleaning.ipynb : Notebook untuk Cleaning Data (preprocessing)
+- EDA_RSBP.ipynb: Notebook untuk EDA
+- neo4j.dump : Neo4j dump berisi databse
+- Laporan.pdf : Laporan ETS
 
 ## ASSETS
 
